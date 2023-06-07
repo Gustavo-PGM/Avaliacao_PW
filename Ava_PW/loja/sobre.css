@@ -94,3 +94,8 @@ header {
 .desc{
     padding-top: 60px;
 }
+.last-text {
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+}
